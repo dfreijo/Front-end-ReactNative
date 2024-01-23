@@ -1,1 +1,1 @@
-# Front-end-ReactNative
+Desarrollo de la aplicación desarrollada en Angular utilizando React Native para interfaz móvil. Además, para tener posibilidad de recibir notificaciones pushhaciendo uso de dos herramientas de Firebase: Cloud Firebase Messaging y Cloud Functions, para cuando se produzca un cambio en la base de datos (ya se escritura o modificación de datos).
