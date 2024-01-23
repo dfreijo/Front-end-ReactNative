@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "239418664935",
+    "project_id": "codeflowmiviajep4",
+    "storage_bucket": "codeflowmiviajep4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239418664935:android:b08d77cd4ad42e07797f42",
+        "android_client_info": {
+          "package_name": "com.codeflow.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByP-27jFosaz5lw8y6JuKmAToxH-evtv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
